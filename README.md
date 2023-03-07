@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: Ruby<br>💬 Ask me about: Java, C++, C#, C or GO<br>⚡ Fun fact: K-POP it's probably the best music genre.
+🌱 I’m currently learning: Ruby<br>💬 Ask me about: Java, C++, C#, C or GO<br>⚡ Fun fact: K-POP is probably the best music genre.
 
 
 ## 🌐 Socials:
