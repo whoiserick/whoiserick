@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning: Java and C++<br>🎯 Goals: Something big? Employed @ Google?<br>🎲 Fun fact: K-POP it's the best music genre and you can't prove the opposite</p>
+<p align="left">✨ Creating bugs since 2011<br>📚 I'm currently learning: Java and C++<br>🎯 Goals: Something big? Employed @ Google?<br>🎲 Fun fact: K-POP it's the best music genre and you can't prove the opposite</p>
 
 ###
 
