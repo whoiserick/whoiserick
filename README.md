@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi, i am Erick... you can call me Ericka, or something like this. And you are welcome here.</p>
+<p align="center">Hi, I am Erick... you can call me Ericka, or something like that. And you are welcome here.</p>
 
 ###
 
@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <a href="https://twitter.com/nica_oi" target="_blank">
+  <a href="https://twitter.com/ErickTweetsHere" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/347524863428263947" target="_blank">
