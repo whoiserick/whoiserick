@@ -71,10 +71,10 @@
 ###
 
 <div align="left">
-  <a href="x.com/staticerick" target="_blank">
+  <a href="https://x.com/staticerick" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="discord.com/users/347524863428263947" target="_blank">
+  <a href="https://discord.com/users/347524863428263947" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
